@@ -17,7 +17,7 @@ function(record) {
      * @since 2015.2
      */
     function pageInit(scriptContext) {
-
+log.debug('hello adeed ')
     }
 
     /**
