@@ -18,6 +18,8 @@ function(record) {
      */
     function pageInit(scriptContext) {
 log.debug('hello adeed ')
+log.debug('hello adeed 2')
+
     }
 
     /**
